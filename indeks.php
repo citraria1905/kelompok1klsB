@@ -19,7 +19,7 @@ else $data=$produk->getAllData();
 <body>
  
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
-    <a class="navbar-brand" href="<?=$base_url?>index.php">Mikamerah</a>
+    <a class="navbar-brand" href="<?=$base_url?>index.php">Kelompok 1</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
     </button>
