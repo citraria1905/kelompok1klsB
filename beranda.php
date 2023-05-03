@@ -27,7 +27,7 @@
     <div class="search">
         <div class="container">
             <form action="produk.php">
-                <input type="text" name="search" placeholder="Cari produk">
+                <input type="text" name="search" placeholder="produk">
                 <input type="submit" name="cari" value="Cari Produk">
             </form>
         </div>
